@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+
+<class>
+    <student>
+        <name>pranoti</name>
+        <marks>85</marks>
+    </student>
+
+    <student>
+        <name>Aditya</name>
+        <marks>60</marks>
+    </student>
+
+    <student>
+        <name>samruddhi</name>
+        <marks>40</marks>
+    </student>
+</class>
