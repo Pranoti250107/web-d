@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> Details of html</title>
+</head>
+<body>
+<p> <b>Hypertext Markup Language (HTML)</b>. is the standard <mark> markup language</mark> for documents designed to be displayed in a <mark>.web browser</mark>. It defines the content and structure of web content.It is often assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as<u> JavaScript</u>.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for its appearance.HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. <del>HTML provides a means to create structured documents by denoting structural semantics </del>for text such as<i><b>headings, paragraphs, lists, links, quotes, and other items</i></b>. HTML elements are delineated by tags, written using angle brackets
+</p>
+
+<p><u>HTML can embed programs written in a scripting language such as JavaScript</u>, which affects the behavior and content of web pages. The inclusion of CSS defines the look and layout of content. The World Wide Web Consortium<i> (W3C)</i>, former maintainer of the HTML and current maintainer of the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.<b><mark> A form of HTML, known as HTML5</b></mark></p>
+</body>
+</html>
+ 
